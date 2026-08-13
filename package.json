@@ -16,7 +16,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/aws/language-server-runtimes"
+        "url": "https://github.com/Amazon-Q-Developer/language-server-runtimes"
     },
     "author": "Amazon Web Services",
     "license": "Apache-2.0",
