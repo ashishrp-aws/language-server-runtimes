@@ -1,5 +1,5 @@
 {
-    "chat-client-ui-types": "0.1.72",
-    "runtimes": "0.3.20",
-    "types": "0.1.66"
+    "chat-client-ui-types": "0.2.0",
+    "runtimes": "0.4.0",
+    "types": "0.2.0"
 }
